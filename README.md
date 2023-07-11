@@ -8,7 +8,6 @@
       
 🎓 I am currently pursuing my **Bachelor's in Computer Technology**.
 
-🌱 I am currently learning **C++ and DSA** and also interested in **Web Development**.
 
 
 
